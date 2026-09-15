@@ -182,7 +182,7 @@ const Footer = () => {
 
         <div className="footer-top">
           <div className="footer-logo">
-            <img src={Logo} alt="Akatsuki Courses" />
+            <img src={Logo} alt="Akatsuki Course" />
             <p>Akatsuki Courses</p>
           </div>
           <div className="footer-contacts">
