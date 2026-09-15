@@ -186,7 +186,7 @@ const Footer = () => {
             <p>Akatsuki Courses</p>
           </div>
           <div className="footer-contacts">
-            <p>📞 8 777 953 85 25</p>
+            <p>📞 8 705 615 4317</p>
             <p> info@akatsukicourses.kz</p>
           </div>
           <div className="footer-socials">
